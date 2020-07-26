@@ -4,7 +4,7 @@ const app = express();
 
 const PORT = process.env.PORT || 5001;
 
-app.use(express.static(path.join(__dirname, 'dist/KA')));
+app.use(express.static(path.join(__dirname, 'dist/angular-single-page-application')));
 
 app.listen(PORT, (req, res) => {
   console.log('Running');
