@@ -4,7 +4,8 @@ const app = express();
 
 const PORT = process.env.PORT || 5001;
 
-app.use(express.static(path.join(__dirname, 'dist/angular-single-page-application')));
+app.use(express.static(path.join(__dirname, 'dist/angular-single-page-website')));
+
 
 app.listen(PORT, (req, res) => {
   console.log('Running');
@@ -12,5 +13,5 @@ app.listen(PORT, (req, res) => {
 
 
 app.get('/*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'dist/angular-single-page-application/index.html'))
+  res.sendFile(path.join(__dirname, 'dist/angular-single-page-website/index.html'))
 });
