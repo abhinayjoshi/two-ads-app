@@ -1,0 +1,85 @@
+[
+        {
+        "imageId": "1",
+        "link": "https://i.pinimg.com/originals/a8/09/99/a809994b7bedfc76e0e535bac57b6d7c.jpg",
+        "redirectionTo": "https://www.nike.com/in/",
+        "price": "450"
+        },
+        {
+        "imageId": "2",
+        "link": "https://i.pinimg.com/originals/a9/48/e5/a948e535215eced40c63b9dde6b84f55.jpg",
+        "redirectionTo": "https://in.puma.com/",
+        "price": "350"
+        },
+        {
+        "imageId" : "3",
+        "link" : "https://www.designyourway.net/blog/wp-content/uploads/2017/12/adidas_ad_3_by_mdr9inchnail.jpg" ,
+        "redirectionTo": "https://www.adidas.co.in/",
+        "price" : "750"
+        },
+
+        {
+        "imageId": "4",
+        "link": "https://i.pinimg.com/originals/e3/72/fa/e372fa45351d2306290dd51ed568aa25.jpg" ,
+        "redirectionTo": "https://www.maybelline.co.in/",
+        "price" : "250"
+        },
+        {
+        "imageId": "5",
+        "link": "https://d168jcr2cillca.cloudfront.net/uploadimages/coupons/8149-Jack-and-Jones_Kolkata_Sales_4.JPG",
+        "redirectionTo": "https://www.jackjones.com/" ,
+        "price" : "375"
+        },
+        {
+        "imageId": "6",
+        "link": "https://i.pinimg.com/originals/87/01/64/870164e8e3c5484dd63bdfe948423a4a.jpg",
+        "redirectionTo": "https://www.hm.com/entrance.ahtml?orguri=%2F" ,
+        "price" : "453"
+        },
+        {
+        "imageId": "7",
+        "link": "https://i.pinimg.com/originals/3a/06/a5/3a06a58a93dd56bbce8dad5c79e3b0ca.jpg" ,
+        "redirectionTo": "https://www.zara.com/in/" ,
+        "price" : "150"
+        },
+        {
+        "imageId": "8" ,
+        "link": "https://www.advertgallery.com/wp-content/uploads/2017/10/biba-dressing-festive-17-ad-times-of-india-delhi-29-09-2017.jpg",
+        "redirectionTo": "https://www.biba.in/" ,
+        "price" : "560"
+        },
+        {
+        "imageId": "9",
+        "link": "https://pbs.twimg.com/media/EFeDcARU0AETA4i.jpg" ,
+        "redirectionTo": "https://shopforaurelia.com/" ,
+        "price" : "704"
+        },
+        {
+        "imageId": "10" ,
+        "link": "https://cdn.shopify.com/s/files/1/0086/0795/7054/files/Shop-Now_Campaign-Mobile_Dog_2000x.jpg?v=1595250943",
+        "redirectionTo": "https://headsupfortails.com/" ,
+        "price" : "75"
+        }
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,9 @@
 export class AdvertisementModel implements Deserializable {
 
-  id: string;
-  imgUrl: string;
+  imageId: string;
+  link: string;
   price: string;
-  navLink: string;
+  redirectionTo: string;
   constructor() { }
 
   deserialize(input: any): this {

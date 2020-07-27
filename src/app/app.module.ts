@@ -11,6 +11,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { Advertisement1Component } from './advertisement1/advertisement1.component';
 import { AdvertisementLeftComponent } from './advertisement-left/advertisement-left.component';
 import { AdvertisementRightComponent } from './advertisement-right/advertisement-right.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { AdvertisementRightComponent } from './advertisement-right/advertisement
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
